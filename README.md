@@ -37,7 +37,7 @@ La ejecución del proyecto se realiza utilizando Junit
 
 Para realizar compras en la página web de JPetStore es necesario realizar el registro manual, ya que este proceso no
 hace parte de la automatización implementada. Una vez se tengan el username y password definidas, estas credenciales
-deben ser agregadas al archivo valores.properties; el cual se encuentra en la ruta:
+deben ser agregadas al archivo <b>valores.properties<b>; el cual se encuentra en la ruta:
 
 ```src/test/resources```
 
